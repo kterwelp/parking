@@ -1,6 +1,6 @@
 public class Gates extends Main {
     protected String name;
-    protected bool open;
+    protected boolean open;
     protected Cars currentCar;
 
     Gates(String n)
@@ -9,7 +9,8 @@ public class Gates extends Main {
         open = true;
     }
 
-    public bool gateIsOpen()
+    //Determines if a gate is open
+    public boolean gateIsOpen()
     {
         if (open == true)
         {
@@ -21,6 +22,7 @@ public class Gates extends Main {
         }
     }
 
+    //Assigns a car to the gate
     public void assignCar(Cars newCar)
     {
         currentCar = newCar;

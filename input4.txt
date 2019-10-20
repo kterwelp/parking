@@ -1,0 +1,22 @@
+arrive 1 2 3 4
+arrive 5 6 7 8
+arrive 9 10 11 12
+leave 1 2
+arrive 13 14 15 16
+NO ACTION
+NO ACTION
+leave 3 4
+NO ACTION
+NO ACTION
+arrive 17 18 19 20
+arrive 15 16
+arrive 17 18 19
+arrive 20
+leave 5 6 7 8
+wrong INPUT
+leave 9 10 11
+leave 12 13
+NO ACTION
+NO ACTION
+leave 14 15 16 17
+leave 18 19 20

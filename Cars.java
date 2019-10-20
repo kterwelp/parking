@@ -7,14 +7,22 @@ public class Cars {
     Cars(int tS, int identification)
     {
         id = identification;
-        timeStamp = ts;
+        timeStamp = tS;
     }
 
+    //Returns the car's time stamp
     public int getTimestamp()
     {
         return timeStamp;
     }
 
+    //Sets the car's time stamp
+    public void setTimestamp(int ts)
+    {
+        timeStamp = ts;
+    }
+
+    //Returns the car's ID
     public int getID()
     {
         return id;
