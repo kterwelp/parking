@@ -14,9 +14,30 @@ arrive 17 18 19
 arrive 20
 leave 5 6 7 8
 wrong INPUT
+arrive 21 22 23
+arrive 24 25 26
 leave 9 10 11
+arrive 27 28 29 30
+arrive 31 32 33
 leave 12 13
+arrive 34 35 36
 NO ACTION
+NO ACTION
+NO ACTION
+NO ACTION
+NO ACTION
+arrive 37 38 39 40
 NO ACTION
 leave 14 15 16 17
 leave 18 19 20
+leave 24 25 26
+leave 21 22 23
+NO ACTION
+NO ACTION
+NO ACTION
+leave 27 28 29 30
+leave 31 32 33 34
+NO ACTION
+leave 37 38
+NO ACTION
+leave 36 35 40 39

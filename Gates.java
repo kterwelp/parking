@@ -1,7 +1,8 @@
-public class Gates extends Main {
-    protected String name;
-    protected boolean open;
-    protected Cars currentCar;
+public class Gates {
+
+    private String name;
+    private boolean open;
+    private Cars currentCar;
 
     Gates(String n)
     {
@@ -26,5 +27,17 @@ public class Gates extends Main {
     public void assignCar(Cars newCar)
     {
         currentCar = newCar;
+    }
+
+    //Sets the current car for the gate
+    public void setCar(Cars car)
+    {
+        currentCar = car;
+    }
+
+    //Sets the current status for the gate
+    public void setStatus(boolean status)
+    {
+        open = status;
     }
 }

@@ -8,10 +8,16 @@ arrive 6 7 8
 arrive 9 10
 NO ACTION
 NO ACTION
+arrive 11 12 13
+arrive 14 15 16
+arrive 17 18 19 20
 NO ACTION
 NO ACTION
 NO ACTION
 leave 1 2 3
 leave 4 5 6
 leave 7 8 9 10
+leave 11 12 13 14
+leave 15 16 17
+leave 18 19 20
 wrong INPUT

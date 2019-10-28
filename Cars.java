@@ -1,9 +1,8 @@
-
 public class Cars {
 
     private int id;
     private int timeStamp;
-    
+
     Cars(int tS, int identification)
     {
         id = identification;
